@@ -4,9 +4,9 @@ A full-featured expense tracking application built for a hackathon challenge, fe
 
 ## 🌐 Live Demo
 
-**Public Live Demo:** https://your-deployment-url.com
+**Public Live Demo:** http://localhost:8000/dashboard
 
-**GitHub Repository:** https://github.com/yourusername/expense-tracker
+**GitHub Repository:** https://github.com/ncunniffe-hub/hackathon-expense-tracker
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ A full-featured expense tracking application built for a hackathon challenge, fe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/ncunniffe-hub/hackathon-expense-tracker.git)
 cd expense-tracker
 ```
 
@@ -164,7 +164,7 @@ Budgets are stored in `budgets.json` and can be modified directly or via the `/b
 
 ## 👨‍💻 Author
 
-Built during a hackathon challenge by [Your Name]
+Built during a hackathon challenge by Niall Cunniffe
 
 ## 📄 License
 
@@ -177,3 +177,4 @@ Built with FastAPI, inspired by modern expense tracking needs and the requiremen
 ---
 
 ⭐ **Star this repo if you find it useful!**
+
