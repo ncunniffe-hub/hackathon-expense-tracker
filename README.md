@@ -32,7 +32,7 @@ A full-featured expense tracking application built for a hackathon challenge, fe
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/ncunniffe-hub/hackathon-expense-tracker.git)
+git clone https://github.com/ncunniffe-hub/hackathon-expense-tracker.git
 cd expense-tracker
 ```
 
@@ -177,4 +177,5 @@ Built with FastAPI, inspired by modern expense tracking needs and the requiremen
 ---
 
 ⭐ **Star this repo if you find it useful!**
+
 
