@@ -4,7 +4,7 @@ A full-featured expense tracking application built for a hackathon challenge, fe
 
 ## 🌐 Live Demo
 
-**Public Live Demo:** http://localhost:8000/dashboard
+**Public Live Demo:** https://kwgpxm88-8000.uks1.devtunnels.ms/dashboard
 
 **GitHub Repository:** https://github.com/ncunniffe-hub/hackathon-expense-tracker
 
@@ -33,7 +33,7 @@ A full-featured expense tracking application built for a hackathon challenge, fe
 1. Clone the repository:
 ```bash
 git clone https://github.com/ncunniffe-hub/hackathon-expense-tracker.git
-cd expense-tracker
+cd hackathon-expense-tracker
 ```
 
 2. Install dependencies:
@@ -177,5 +177,3 @@ Built with FastAPI, inspired by modern expense tracking needs and the requiremen
 ---
 
 ⭐ **Star this repo if you find it useful!**
-
-
