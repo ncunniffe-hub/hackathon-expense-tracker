@@ -1,0 +1,7 @@
+id,amount,category,date,description,tags
+1,12.5,Food,2025-10-20T00:00:00,Lunch at cafe,lunch|work
+2,45.0,Transport,2025-10-21T00:00:00,Gas for car,car|fuel
+3,25.99,Entertainment,2025-10-22T00:00:00,Movie tickets,movies|weekend
+4,8.75,Food,2025-10-23T00:00:00,Coffee and pastry,coffee|morning
+5,120.0,Utilities,2025-10-24T00:00:00,Electric bill,bills|monthly
+6,25.0,Food,2025-10-24T00:00:00,hackathon pizza,sustenance
